@@ -18,3 +18,8 @@ Only the skills are copied. For the auto-activate hooks and status line, install
 
 free-llm-apis comes from https://github.com/mnfst/awesome-free-llm-apis (commit 2527fd4), CC0 license
 (see FREE_LLM_APIS_LICENSE). It lists LLM APIs with free tiers and how to set them up.
+
+# Skill from i-have-adhd
+
+i-have-adhd comes from https://github.com/ayghri/i-have-adhd (commit 1ecea19), MIT license
+(see I_HAVE_ADHD_LICENSE). Turn it on with /i-have-adhd; turn it off with "stop adhd mode".
