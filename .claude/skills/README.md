@@ -13,3 +13,8 @@ ponytail, ponytail-review, ponytail-audit, ponytail-debt, ponytail-gain and pony
 https://github.com/DietrichGebert/ponytail (commit 96608e0), MIT license (see PONYTAIL_LICENSE).
 Only the skills are copied. For the auto-activate hooks and status line, install the plugin:
 /plugin marketplace add DietrichGebert/ponytail, then /plugin install ponytail@ponytail
+
+# Skill from awesome-free-llm-apis
+
+free-llm-apis comes from https://github.com/mnfst/awesome-free-llm-apis (commit 2527fd4), CC0 license
+(see FREE_LLM_APIS_LICENSE). It lists LLM APIs with free tiers and how to set them up.
