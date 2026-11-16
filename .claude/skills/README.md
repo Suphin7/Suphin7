@@ -23,3 +23,8 @@ free-llm-apis comes from https://github.com/mnfst/awesome-free-llm-apis (commit 
 
 i-have-adhd comes from https://github.com/ayghri/i-have-adhd (commit 1ecea19), MIT license
 (see I_HAVE_ADHD_LICENSE). Turn it on with /i-have-adhd; turn it off with "stop adhd mode".
+
+# Skills from day-trader-skill
+
+The 12 trader-* skills come from https://github.com/Jakeschincariol/day-trader-skill (commit 3d0f4ef),
+MIT license (see DAY_TRADER_LICENSE). Orders are paper trading by default and need your explicit yes.
